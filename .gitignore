@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+build/
+dist/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Runtime logs/caches
+*.log
+.cache/
+.pytest_cache/
+
+# Local model/cache artifacts
+ollama_models/
+models/
+*.bin
+*.pt
+*.pth
+*.safetensors
+
+# Large/generated intermediate files
+results/tmp/

@@ -267,7 +267,3 @@ FINALIZER_MODEL=qwen2.5:0.5b-instruct
 - The final project presentation used one deadline-run seed.
 - Subtle split did not trigger in the reported smoke/case-study behavior.
 - Defense-placement experiments are not implemented in this repository.
-
-## License
-
-No license is included by default. Add a license only after confirming with all project contributors and course policies.
